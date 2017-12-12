@@ -11,7 +11,7 @@ Experience in FPGA and embedded systems software. Writing FPGA software for netw
 * Writing software for microcontrollers: MSP430, ATmega128, LPC2378.
 
 ## Experience
-##### NORSI-TRANS (Senior FPGA Engineer, January 2015 – present day.)
+#### NORSI-TRANS (Senior FPGA Engineer, January 2015 – present day.)
 
 Write FPGA software included in the defragmentation, filtering, aggregation and load balance traffic systems with speeds from 1Gbit/s to 40Gbit/s. Implementation FPGA software for decoding 64’s STM-16 and STM-1 streams with subsequent extraction of ATM, HDLC packets.
 
@@ -27,7 +27,7 @@ Write FPGA software included in the defragmentation, filtering, aggregation and 
 * In-circuit FPGA debug;
 * Testing under development system.
 
-##### Intellectual Systems NN (Senior FPGA/DSP Engineer, March 2014 – January 2015.)
+#### Intellectual Systems NN (Senior FPGA/DSP Engineer, March 2014 – January 2015.)
 
 Modernization high voltage optical transformer.
 
@@ -42,7 +42,7 @@ Modernization high voltage optical transformer.
 * Use the theoretical foundations of DSP;
 * Circuit FPGA debug.
 
-##### Tecom (Middle FPGA Engineer, May 2012 – October 2013. Senior FPGA Engineer, October 2013 – March 2014.)
+#### Tecom (Middle FPGA Engineer, May 2012 – October 2013. Senior FPGA Engineer, October 2013 – March 2014.)
 
 Write FPGA software for FM transmission/receiver signal system, video processing system.
 
